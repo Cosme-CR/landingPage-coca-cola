@@ -8,6 +8,3 @@ O site foi desenvolvido utilizando boas práticas, como por exemplo tags semânt
 * HTML
 * CSS
 * Media Queries
-
-## Autor
-[Fernando Leonid](<https://www.linkedin.com/in/fernandoleonid/>)
